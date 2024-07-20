@@ -4,10 +4,10 @@
 <hr>
 
 #### This project was created to study:
-- Espressif SDK;
+- Espressif SDK v5.2.2;
 - ZigBee;
 - Home Assistant;
-- ESP32C3.
+- ESP32-C3.
 
 #### Software used
 
