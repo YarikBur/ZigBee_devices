@@ -7,7 +7,7 @@
 - Espressif SDK v5.2.2;
 - ZigBee;
 - Home Assistant;
-- ESP32-C3.
+- ESP32-C6.
 
 #### Software used
 
