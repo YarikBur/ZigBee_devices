@@ -1,2 +1,5 @@
 # Temp SolidWorks files
 ~$*.SLDPRT
+firmware/build
+firmware/.vscode
+firmware/.devcontainer
